@@ -3,7 +3,7 @@ title: "個人で Web 検索エンジンを作って AI エージェント向け
 emoji: "🔍"
 type: "tech"
 topics: ["python", "検索エンジン", "AI", "MCP", "FastAPI"]
-published: true
+published: false
 ---
 
 ## はじめに
